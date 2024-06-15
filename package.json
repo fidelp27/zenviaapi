@@ -1,0 +1,28 @@
+{
+  "name": "zenvia_api",
+  "version": "1.0.0",
+  "description": "get prospects via API between two dates. ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fidelp27/zenviaapi.git"
+  },
+  "keywords": [
+    "zenvia",
+    "javascript",
+    "api",
+    "fetch"
+  ],
+  "author": "fidevp27@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidelp27/zenviaapi/issues"
+  },
+  "homepage": "https://github.com/fidelp27/zenviaapi#readme"
+}
